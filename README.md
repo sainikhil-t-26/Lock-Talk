@@ -1,4 +1,4 @@
-# Lock_Talk
+# Lock_Talk(Spring Boot, React, MySQL)
 Lock-Talk is a Message Encryption-Decription platform to share sensitive or confidential messages
 
 This is the UI developed using React
